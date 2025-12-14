@@ -63,8 +63,8 @@ for word in tweet_tokens: # Go through every word in your tokens list
         tweets_clean.append(word)
 
 
-print()
 print('\033[92m')
+print('Original Tweet:')
 print(tweet)
 print('\033[94m')
 
