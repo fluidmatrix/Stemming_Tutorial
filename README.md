@@ -18,7 +18,7 @@ Stems.
 At last, the print statement shows the original tweet 
                     V/s
 The Stems which are stored in a list. 
-![Comparison ScrenShot](<c:/Users/saadr/OneDrive/Pictures/Screenshots 1/Screenshot 2025-12-14 175742.png>)
+![Comparison ScrenShot](<./Screenshot 2025-12-14 175742.png>)
 
 I have also freezed the requirements to save space on my workstation
 as well you can install the dependencies using requirements.txt
