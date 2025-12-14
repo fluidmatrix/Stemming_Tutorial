@@ -6,7 +6,7 @@ I have downloaded the tweets using the NLTK package, which is the open source
 package for Natural Language Processing. We have used a 50/50 split, which has 
 50% +ve and 50% -ve examples. 
 
-![Pie Chart](<c:/Users/saadr/OneDrive/Pictures/Screenshots 1/Screenshot 2025-12-14 180630.png>)
+![Pie Chart](<./Screenshot 2025-12-14 180630.png>)
 I have developed pre-processor which would stem the original tweet, which could be
 fed to train the model. 
 
