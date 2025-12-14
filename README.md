@@ -7,7 +7,8 @@ package for Natural Language Processing. We have used a 50/50 split, which has
 50% +ve and 50% -ve examples. 
 
 ![Pie Chart](<./Screenshot 2025-12-14 180630.png>)
-I have developed pre-processor which would stem the original tweet, which could be
+
+I have developed a pre-processor which would stem the original tweet, which could be
 fed to train the model. 
 
 Firstly, we have remove the punctuation and stopwords, then used 
