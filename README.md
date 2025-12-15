@@ -15,6 +15,9 @@ Firstly, we have remove the punctuation and stopwords, then used
 PorterStemmer from NLTK package to reduce the words to their basic 
 Stems. 
 
+I have moved the helper functions into a helper.py file
+It contains the helper function build_freqs
+![Logarithmic Plot](<./image.png>)
 
 At last, the print statement shows the original tweet 
                     V/s
