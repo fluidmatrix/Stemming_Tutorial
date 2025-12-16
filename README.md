@@ -31,4 +31,6 @@ and replicate the tutorial.
 Now you can use your own Tweet in the main function, to gather if the tweet is
 good or bad?
 Just go ahead and try the model!
+
+
 ![Sentiment Analysis](<./image-1.png>)
