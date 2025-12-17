@@ -41,6 +41,8 @@ J, theta = gradientDescent(X, Y, np.zeros((3, 1)), 1e-9, 1500)
 
 # Feel free to change the tweet below
 my_tweet = 'Is this good or bad tweet?'
+print('\033[90m')
+print(my_tweet)
 print(process_tweet(my_tweet))
 y_hat = predict_tweet(my_tweet, freqs, theta)
 print(y_hat)

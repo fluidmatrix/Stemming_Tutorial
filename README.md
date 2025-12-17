@@ -33,4 +33,4 @@ good or bad?
 Just go ahead and try the model!
 
 
-![Sentiment Analysis](<./image-1.png>)
+![Sentiment Analysis](<./image copy 2.png>)
